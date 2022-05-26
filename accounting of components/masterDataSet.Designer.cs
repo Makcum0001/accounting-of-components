@@ -10,7 +10,7 @@
 
 #pragma warning disable 1591
 
-namespace accounting_of_components {
+namespace Accounting_of_component {
     
     
     /// <summary>
